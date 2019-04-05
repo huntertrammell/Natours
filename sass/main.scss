@@ -15,13 +15,14 @@
 @import "components/card";
 @import "components/composition.scss";
 @import "components/feature-box";
-@import "components/footer";
 @import "components/form";
 @import "components/story";
 
 //layout
+@import "layout/footer";
 @import "layout/grid";
 @import "layout/header";
+@import "layout/navigation.scss";
 
 //pages
 @import "pages/home";
